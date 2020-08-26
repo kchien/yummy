@@ -58,6 +58,8 @@
 
 [WSR](https://www.abc.virginia.gov/products/bourbon/wl-weller-special-reserve-bourbon?productSize=1)
 
+[Weller Single Barrel](https://www.abc.virginia.gov/products/bourbon/weller-single-barrel?productSize=0)
+
 [Weller CYPB](https://www.abc.virginia.gov/products/bourbon/weller-cypb-bourbon?productSize=0)
 
 
