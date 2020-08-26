@@ -10,9 +10,13 @@
 
 [Angel's Envy Rye](https://www.abc.virginia.gov/products/rye/angels-envy-rye-whiskey?productSize=0)
 
+[Booker's](https://www.abc.virginia.gov/products/bourbon/bookers-bourbon?productSize=0)
+
 [Clyde May](https://www.abc.virginia.gov/products/whiskey/clyde-mays-cask-strength-alabama-style-whiskey?productSize=0)
 
 [Elmer T. Lee](https://www.abc.virginia.gov/products/bourbon/elmer-t-lee-bourbon?productSize=0)
+
+[Jefferson's Ocean Aged at Sea](https://www.abc.virginia.gov/products/bourbon/jeffersons-ocean-aged-at-sea-cask-strength?productSize=0)
 
 [Michter's Single Barrel 10 Year](https://www.abc.virginia.gov/products/bourbon/michters-single-barrel-10-yr-bourbon?productSize=0)
 
@@ -45,6 +49,9 @@
 
 
 ## Most likely lottery-only -- Weller
+
+[Weller Antique 107 (not lottery at the time of this writing)](https://www.abc.virginia.gov/products/bourbon/old-weller-antique-107-bourbon?productSize=0)
+
 [Weller 12](https://www.abc.virginia.gov/products/bourbon/weller-12-year-wheated-bourbon?productSize=0)
 
 [WSR small](https://www.abc.virginia.gov/products/bourbon/wl-weller-special-reserve-bourbon?productSize=0)
