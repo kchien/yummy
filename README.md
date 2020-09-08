@@ -24,6 +24,8 @@
 
 [Limited Availability](https://www.abc.virginia.gov/products/limited-availability)
 
+[Lotteries](https://www.abc.virginia.gov/products/limited-availability/lottery)
+
 ## High West
 [Midwinter Nights Dram](https://www.abc.virginia.gov/products/rye/high-west-a-midwinter-nights-dram?productSize=0)
 
