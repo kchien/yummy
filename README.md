@@ -10,6 +10,8 @@
 
 [Angel's Envy Rye](https://www.abc.virginia.gov/products/rye/angels-envy-rye-whiskey?productSize=0)
 
+[Angel's Envy Cask Strength Bourbon](https://www.abc.virginia.gov/products/bourbon/angels-envy-cask-strength-bourbon?productSize=0) *Added 2020-11-02*
+
 [Booker's](https://www.abc.virginia.gov/products/bourbon/bookers-bourbon?productSize=0)
 
 [Clyde May](https://www.abc.virginia.gov/products/whiskey/clyde-mays-cask-strength-alabama-style-whiskey?productSize=0)
