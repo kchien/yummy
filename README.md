@@ -20,6 +20,8 @@
 
 [Jefferson's Ocean Aged at Sea](https://www.abc.virginia.gov/products/bourbon/jeffersons-ocean-aged-at-sea-cask-strength?productSize=0)
 
+[Little Book Chapter 4 Lessons Honored](https://www.abc.virginia.gov/products/bourbon/little-book-chapter-4-lessons-honored?productSize=0) *Added 2020-11-13*
+
 [Michter's Single Barrel 10 Year](https://www.abc.virginia.gov/products/bourbon/michters-single-barrel-10-yr-bourbon?productSize=0)
 
 [Sazerac](https://www.abc.virginia.gov/products/rye/sazerac-rye-6-yr?productSize=0)
