@@ -24,6 +24,8 @@
 
 [Michter's Single Barrel 10 Year](https://www.abc.virginia.gov/products/bourbon/michters-single-barrel-10-yr-bourbon?productSize=0)
 
+[Rare Breed Rye](https://www.abc.virginia.gov/products/rye/rare-breed-rye?productSize=0)
+
 [Sazerac](https://www.abc.virginia.gov/products/rye/sazerac-rye-6-yr?productSize=0)
 
 [Limited Availability](https://www.abc.virginia.gov/products/limited-availability)
