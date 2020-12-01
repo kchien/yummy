@@ -10,7 +10,7 @@
 
 [Angel's Envy Rye](https://www.abc.virginia.gov/products/rye/angels-envy-rye-whiskey?productSize=0)
 
-[Angel's Envy Cask Strength Bourbon](https://www.abc.virginia.gov/products/bourbon/angels-envy-cask-strength-bourbon?productSize=0) *Added 2020-11-02*  Code: 016567
+[Angel's Envy Cask Strength Bourbon](https://www.abc.virginia.gov/products/bourbon/angels-envy-cask-strength-bourbon?productSize=0) *Added 2020-11-02*  [API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=016567&mileRadius=999&storeCount=5&buffer=0)
 
 [Booker's](https://www.abc.virginia.gov/products/bourbon/bookers-bourbon?productSize=0)
 
