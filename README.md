@@ -1,10 +1,13 @@
 ## Blanton's
 
 [Blanton's Gold](https://www.abc.virginia.gov/products/bourbon/blanton-gold-label?productSize=0) Code: 016841
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=016841&mileRadius=999&storeCount=5&buffer=0)
 
 [Blanton's 375 ml](https://www.abc.virginia.gov/products/bourbon/blantons-single-barrel-bourbon?productSize=0) Code: 016845
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=016845&mileRadius=999&storeCount=5&buffer=0)
 
 [Blanton's 750 ml](https://www.abc.virginia.gov/products/bourbon/blantons-single-barrel-bourbon?productSize=1) Code: 016850
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=016850&mileRadius=999&storeCount=5&buffer=0)
 
 ## Misc
 
@@ -21,10 +24,13 @@
 [Jefferson's Ocean Aged at Sea](https://www.abc.virginia.gov/products/bourbon/jeffersons-ocean-aged-at-sea-cask-strength?productSize=0)
 
 [Little Book Chapter 4 Lessons Honored](https://www.abc.virginia.gov/products/bourbon/little-book-chapter-4-lessons-honored?productSize=0) *Added 2020-11-13* Code: 024574
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=024574&mileRadius=999&storeCount=5&buffer=0)
 
 [Michter's Single Barrel 10 Year](https://www.abc.virginia.gov/products/bourbon/michters-single-barrel-10-yr-bourbon?productSize=0) Code: 019876
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=019876&mileRadius=999&storeCount=5&buffer=0)
 
 [Rare Breed Rye](https://www.abc.virginia.gov/products/rye/rare-breed-rye?productSize=0) Code: 022172
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=022172&mileRadius=999&storeCount=5&buffer=0)
 
 [Sazerac](https://www.abc.virginia.gov/products/rye/sazerac-rye-6-yr?productSize=0)
 
