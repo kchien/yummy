@@ -84,5 +84,7 @@
 
 ## EH Taylor
 [EH Taylor Small Batch](https://www.abc.virginia.gov/products/bourbon/e-h-taylor-jr-small-batch-whiskey?productSize=0) Code: 021602
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=021602&mileRadius=999&storeCount=5&buffer=0)
+
 
 [EH Taylor Single Barrel, Lottery Only](https://www.abc.virginia.gov/products/bourbon/e-h-taylor-jr-single-barrel-bourbon?productSize=0)
