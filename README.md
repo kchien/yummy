@@ -63,6 +63,7 @@
 [Eagle Rare](https://www.abc.virginia.gov/products/bourbon/eagle-rare-10-year-bourbon?productSize=1)
 
 [Stagg Jr](https://www.abc.virginia.gov/products/bourbon/stagg-jr?productSize=0) Code: 021540
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=021540&mileRadius=999&storeCount=5&buffer=0)
 
 [McKenna](https://www.abc.virginia.gov/products/bourbon/henry-mckenna-single-barrel-bourbon?productSize=0)
 
