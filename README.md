@@ -15,6 +15,8 @@
 
 [Angel's Envy Cask Strength Bourbon](https://www.abc.virginia.gov/products/bourbon/angels-envy-cask-strength-bourbon?productSize=0) *Added 2020-11-02*  [API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=016567&mileRadius=999&storeCount=5&buffer=0)
 
+[Baker's 7](https://www.abc.virginia.gov/products/bourbon/bakers-bourbon?productSize=0)
+
 [Booker's](https://www.abc.virginia.gov/products/bourbon/bookers-bourbon?productSize=0)
 
 [Clyde May](https://www.abc.virginia.gov/products/whiskey/clyde-mays-cask-strength-alabama-style-whiskey?productSize=0)
@@ -89,3 +91,6 @@
 
 
 [EH Taylor Single Barrel, Lottery Only](https://www.abc.virginia.gov/products/bourbon/e-h-taylor-jr-single-barrel-bourbon?productSize=0)
+
+## Stizel-Weller
+[Blade & Bow 22](https://www.abc.virginia.gov/products/bourbon/blade-and-bow-22-year-bourbon?productSize=0)
