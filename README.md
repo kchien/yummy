@@ -48,8 +48,10 @@
 
 ## Japanese
 [Hakushu 12](https://www.abc.virginia.gov/products/whiskey/hakushu-12-year-japanese-whiskey?productSize=0) Code: 016002
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=016002&mileRadius=999&storeCount=5&buffer=0)
 
 [Hakushu 18](https://www.abc.virginia.gov/products/whiskey/hakushu-18-year-japanese-whiskey?productSize=0) Code: 015998
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=015998&mileRadius=999&storeCount=5&buffer=0)
 
 [Hibiki](https://www.abc.virginia.gov/products/whiskey/hibiki-harmony-whiskey?productSize=0)
 
