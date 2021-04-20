@@ -46,6 +46,11 @@
 
 [Yippee Ki Yay](https://www.abc.virginia.gov/products/rye/high-west-yippee-ki-yay-whiskey?productSize=0)
 
+
+## Irish
+[Blue Spot](...) 
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=015534&mileRadius=999&storeCount=5&buffer=0)
+
 ## Japanese
 [Hakushu 12](https://www.abc.virginia.gov/products/whiskey/hakushu-12-year-japanese-whiskey?productSize=0) Code: 016002
 [API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=016002&mileRadius=999&storeCount=5&buffer=0)
