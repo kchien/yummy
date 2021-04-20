@@ -61,6 +61,8 @@
 ## Buffalo Trace
 
 [Buffalo Trace small](https://www.abc.virginia.gov/products/bourbon/buffalo-trace-bourbon?productSize=0)
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=018008&mileRadius=999&storeCount=5&buffer=0)
+
 
 [Buffalo Trace](https://www.abc.virginia.gov/products/bourbon/buffalo-trace-bourbon?productSize=1)
 
