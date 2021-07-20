@@ -36,6 +36,8 @@
 
 [Sazerac](https://www.abc.virginia.gov/products/rye/sazerac-rye-6-yr?productSize=0)
 
+[Wild Turkey Masters Keep One](https://www.abc.virginia.gov/products/bourbon/wild-turkey-masters-keep-one?productSize=0)
+
 [Limited Availability](https://www.abc.virginia.gov/products/limited-availability)
 
 [Lotteries](https://www.abc.virginia.gov/products/limited-availability/lottery)
@@ -60,7 +62,9 @@
 
 [Hibiki](https://www.abc.virginia.gov/products/whiskey/hibiki-harmony-whiskey?productSize=0)
 
-[Yamazaki](https://www.abc.virginia.gov/products/whiskey/suntory-yamazaki-12-year-whisky?productSize=0)
+[Yamazaki 12](https://www.abc.virginia.gov/products/whiskey/suntory-yamazaki-12-year-whisky?productSize=0)
+
+[Yamazaki 18](https://www.abc.virginia.gov/products/whiskey/yamazaki-18-year-whisky?productSize=0)
 
 
 ## Buffalo Trace
