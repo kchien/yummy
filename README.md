@@ -19,9 +19,14 @@
 
 [Booker's](https://www.abc.virginia.gov/products/bourbon/bookers-bourbon?productSize=0)
 
+[Calumet 15](https://www.abc.virginia.gov/products/bourbon/calumet-15-year-old-bourbon?productSize=0)
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=017192&mileRadius=999&storeCount=5&buffer=0)
+
+
 [Clyde May](https://www.abc.virginia.gov/products/whiskey/clyde-mays-cask-strength-alabama-style-whiskey?productSize=0)
 
 [Elmer T. Lee](https://www.abc.virginia.gov/products/bourbon/elmer-t-lee-bourbon?productSize=0) Code: 017946
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=017946&mileRadius=999&storeCount=5&buffer=0)
 
 [Jefferson's Ocean Aged at Sea](https://www.abc.virginia.gov/products/bourbon/jeffersons-ocean-aged-at-sea-cask-strength?productSize=0)
 
@@ -35,8 +40,10 @@
 [API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=022172&mileRadius=999&storeCount=5&buffer=0)
 
 [Sazerac](https://www.abc.virginia.gov/products/rye/sazerac-rye-6-yr?productSize=0)
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=027100&mileRadius=999&storeCount=5&buffer=0)
 
 [Wild Turkey Masters Keep One](https://www.abc.virginia.gov/products/bourbon/wild-turkey-masters-keep-one?productSize=0)
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=022073&mileRadius=999&storeCount=5&buffer=0)
 
 [Limited Availability](https://www.abc.virginia.gov/products/limited-availability)
 
@@ -48,6 +55,8 @@
 
 [Yippee Ki Yay](https://www.abc.virginia.gov/products/rye/high-west-yippee-ki-yay-whiskey?productSize=0)
 
+[High West American Prairie Bourbon Barrel Select](https://www.abc.virginia.gov/products/bourbon/high-west-american-prairie-bourbon-barrel-select?productSize=0)
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=018606&mileRadius=999&storeCount=5&buffer=0)
 
 ## Irish
 [Blue Spot](...) 
@@ -86,6 +95,7 @@
 ## Most likely lottery-only -- Weller
 
 [Weller Antique 107 (not lottery at the time of this writing)](https://www.abc.virginia.gov/products/bourbon/old-weller-antique-107-bourbon?productSize=0) Code: 022036
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=022036&mileRadius=999&storeCount=5&buffer=0)
 
 [Weller 12](https://www.abc.virginia.gov/products/bourbon/weller-12-year-wheated-bourbon?productSize=0)
 
