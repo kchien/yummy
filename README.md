@@ -9,6 +9,13 @@
 [Blanton's 750 ml](https://www.abc.virginia.gov/products/bourbon/blantons-single-barrel-bourbon?productSize=1) Code: 016850
 [API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=016850&mileRadius=999&storeCount=5&buffer=0)
 
+## Thomas S. Moore (from 1792 Distillery)
+[Thomas S. Moore Bourbon Port Cask](https://www.abc.virginia.gov/products/bourbon/thomas-s-moore-bourbon-port-cask?productSize=0) Code: 086494
+
+[Thomas S. Moore Bourbon Cabernet Sauvignon Cask](https://www.abc.virginia.gov/products/bourbon/thomas-s-moore-bourbon-cabernet-sauvignon-cask?productSize=0) Code: 086490
+
+[Thomas S. Moore Bourbon Chardonnay Cask](https://www.abc.virginia.gov/products/bourbon/thomas-s-moore-bourbon-chardonnay-cask?productSize=0) Code: 086492
+
 ## Misc
 
 [Angel's Envy Rye](https://www.abc.virginia.gov/products/rye/angels-envy-rye-whiskey?productSize=0)
