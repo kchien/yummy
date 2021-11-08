@@ -33,6 +33,9 @@
 [Little Book Chapter 4 Lessons Honored](https://www.abc.virginia.gov/products/bourbon/little-book-chapter-4-lessons-honored?productSize=0) *Added 2020-11-13* Code: 024574
 [API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=024574&mileRadius=999&storeCount=5&buffer=0)
 
+[Little Book Chapter 5 The Invitation](https://www.abc.virginia.gov/products/bourbon/little-book-chapter-5-the-invitation?productSize=0) Code: 024575
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=024575&mileRadius=999&storeCount=5&buffer=0)
+
 [Michter's Single Barrel 10 Year](https://www.abc.virginia.gov/products/bourbon/michters-single-barrel-10-yr-bourbon?productSize=0) Code: 019876
 [API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=019876&mileRadius=999&storeCount=5&buffer=0)
 
