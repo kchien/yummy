@@ -61,7 +61,8 @@
 [Little Book Chapter 5 The Invitation](https://www.abc.virginia.gov/products/bourbon/little-book-chapter-5-the-invitation?productSize=0) Code: 024575
 [API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=024575&mileRadius=999&storeCount=5&buffer=0)
 
-
+[Macallan Harmony Collection](https://www.abc.virginia.gov/products/scotch/macallan-harmony-collection?productSize=0) Code: 006061
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=006061&mileRadius=999&storeCount=5&buffer=0)
 
 [Rare Breed Rye](https://www.abc.virginia.gov/products/rye/rare-breed-rye?productSize=0) Code: 022172
 [API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=022172&mileRadius=999&storeCount=5&buffer=0)
