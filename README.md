@@ -40,6 +40,10 @@
 ## Misc
 [Baker's 7](https://www.abc.virginia.gov/products/bourbon/bakers-bourbon?productSize=0)
 
+[Baker's 13](https://www.abc.virginia.gov/products/bourbon/bakers-13-year?productSize=0)
+
+[Baker's Single Barrel](https://www.abc.virginia.gov/products/bourbon/bakers-single-barrel-select?productSize=0)
+
 [Booker's](https://www.abc.virginia.gov/products/bourbon/bookers-bourbon?productSize=0)
 
 [Calumet 15](https://www.abc.virginia.gov/products/bourbon/calumet-15-year-old-bourbon?productSize=0)
