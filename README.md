@@ -139,7 +139,7 @@
 [Weller Antique 107 (not lottery at the time of this writing)](https://www.abc.virginia.gov/products/bourbon/old-weller-antique-107-bourbon?productSize=0) Code: 022036
 [API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=022036&mileRadius=999&storeCount=5&buffer=0)
 
-[Weller 12](https://www.abc.virginia.gov/products/bourbon/weller-12-year-wheated-bourbon?productSize=0)
+[Weller 12--lottery only](https://www.abc.virginia.gov/products/bourbon/weller-12-year-wheated-bourbon?productSize=0)
 
 [Weller Full Proof - in store purchase (not lottery)!](https://www.abc.virginia.gov/products/bourbon/weller-full-proof?productSize=0) Code: 022044
 [API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=022044&mileRadius=999&storeCount=5&buffer=0)
