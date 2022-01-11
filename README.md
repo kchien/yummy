@@ -141,6 +141,9 @@
 
 [Weller 12](https://www.abc.virginia.gov/products/bourbon/weller-12-year-wheated-bourbon?productSize=0)
 
+[Weller Full Proof - in store purchase (not lottery)!](https://www.abc.virginia.gov/products/bourbon/weller-full-proof?productSize=0) Code: 022044
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=022044&mileRadius=999&storeCount=5&buffer=0)
+
 [WSR small](https://www.abc.virginia.gov/products/bourbon/wl-weller-special-reserve-bourbon?productSize=0)
 
 [WSR](https://www.abc.virginia.gov/products/bourbon/wl-weller-special-reserve-bourbon?productSize=1)
