@@ -1,4 +1,4 @@
-## Check these occassionally!
+## Check these occasionally!
 
 [Limited Availability](https://www.abc.virginia.gov/products/limited-availability)
 
