@@ -175,9 +175,9 @@ The week of Thanksgiving 2020, we saw the following:
 
 Monday:
 1. Reston North Point: show up EARLY if you want to go here.  
-   a. I showed up here at 11:00 AM in the summer and was #1 (During COVID 2020, stores opened at noon).
-   b. we showed up this week at 11:30 and there were like 24 people in line. then we went to store #224 and still scored.
-   c. reminder: franklin farms is SUPER DUPER crowded and you have to be there at 11 or don't even bother.
+    a. I showed up here at 11:00 AM in the summer and was #1 (During COVID 2020, stores opened at noon).
+    b. we showed up this week at 11:30 and there were like 24 people in line. then we went to store #224 and still scored.
+    c. reminder: franklin farms is SUPER DUPER crowded and you have to be there at 11 or don't even bother.
 2. Store #224, Lee Hwy/Centreville Rd -- showed up late with 3 EHT, 6 Big Blanton's and 12 small... then onto Westfields, because it showed up late as well.
 
 Tuesday:
