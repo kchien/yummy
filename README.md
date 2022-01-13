@@ -190,3 +190,4 @@ Action Item: mark your calendars during Christmas week w/this intel.
 ## Intel Report -- Generic
 * Winchester shows up same day as Edds Lane Sterling, around 10:15 
 * After Winchester, Front Royal will show up
+* Ideal route, per Stefan: Manassas, Winchester, then Front Royal
