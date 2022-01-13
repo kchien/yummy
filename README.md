@@ -115,6 +115,9 @@
 
 [Hibiki](https://www.abc.virginia.gov/products/whiskey/hibiki-harmony-whiskey?productSize=0)
 
+[Hibiki Harmony Limited Gift Label](https://www.abc.virginia.gov/products/whiskey/hibiki-harmony-limited-gift-label?productSize=0) Code: 100583
+[API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=100583&mileRadius=999&storeCount=5&buffer=0)
+
 [Yamazaki 12](https://www.abc.virginia.gov/products/whiskey/suntory-yamazaki-12-year-whisky?productSize=0)
 
 [Yamazaki 18](https://www.abc.virginia.gov/products/whiskey/yamazaki-18-year-whisky?productSize=0)
