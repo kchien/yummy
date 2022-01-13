@@ -169,7 +169,7 @@
 ## Stizel-Weller
 [Blade & Bow 22](https://www.abc.virginia.gov/products/bourbon/blade-and-bow-22-year-bourbon?productSize=0)
 
-## Intel Report for Late Arrivals
+## Intel Report for Late Arrivals -- Thanksgiving 2020
 Version 2.2.0
 The week of Thanksgiving 2020, we saw the following:
 
@@ -187,3 +187,6 @@ We believe this will play out again during Christmas week.
 
 Action Item: mark your calendars during Christmas week w/this intel.
 
+## Intel Report -- Generic
+* Winchester shows up same day as Edds Lane Sterling, around 10:15 
+* After Winchester, Front Royal will show up
