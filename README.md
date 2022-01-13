@@ -139,7 +139,7 @@
 [McKenna](https://www.abc.virginia.gov/products/bourbon/henry-mckenna-single-barrel-bourbon?productSize=0)
 
 
-## Most likely lottery-only -- Weller
+## Weller (most are available in store!)
 
 [Weller Antique 107 (not lottery at the time of this writing)](https://www.abc.virginia.gov/products/bourbon/old-weller-antique-107-bourbon?productSize=0) Code: 022036
 [API](https://www.abc.virginia.gov/webapi/inventory/storeNearby?storeNumber=224&productCode=022036&mileRadius=999&storeCount=5&buffer=0)
